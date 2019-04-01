@@ -16,4 +16,8 @@ fsadfsadfsdafsadq
 
 git a1111111111
 
-creating a new branch is quick & simple.
+
+creating a new branch is quick and simple.
+creating b new branch is quick.
+
+
